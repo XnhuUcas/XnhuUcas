@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Xiaonan Hu
-- 🌱 I currently work as a postdoctoral researcher at AMSS, Chinese Academy of Sciences.
-- 📫 My research interest includes genetic association study, high dimensional data analysis, model selection and model averaging.
+- 👋 Hi, I’m Xiaonan Hu (胡晓楠).
+- 🌱 I currently a lecturer at the School of Mathematical Sciences, Capital Normal University.
+- 📫 My research interest includes genetic statistics, model selection and model averaging.
 
-Any questions or suggestion, welcome to contact me: xnhu@amss.ac.cn
+Any questions or suggestion, welcome to contact me: xnhu@amss.ac.cn or xiaonanhu@cnu.edu.cn.
 
 <!---
 XnhuUcas/XnhuUcas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
